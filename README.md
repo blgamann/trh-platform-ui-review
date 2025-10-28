@@ -7,3 +7,4 @@ This repository contains documentation and analysis for learning and reviewing t
 - [Project Structure](./PROJECT_STRUCTURE.md)
 - [Context Pattern](./CONTEXT_PATTERN.md)
 - [Authentication System](./AUTHENTICATION.md)
+- [React Query](./REACT_QUERY.md)
