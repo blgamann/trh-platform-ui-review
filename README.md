@@ -4,4 +4,5 @@ This repository contains documentation and analysis for learning and reviewing t
 
 ## Documentation
 
-- [Authentication System](./AUTHENTICATION.md) - Comprehensive guide to the authentication implementation
+- [Context Pattern](./CONTEXT_PATTERN.md)
+- [Authentication System](./AUTHENTICATION.md)
