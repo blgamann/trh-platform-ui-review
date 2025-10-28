@@ -8,3 +8,4 @@ This repository contains documentation and analysis for learning and reviewing t
 - [Context Pattern](./CONTEXT_PATTERN.md)
 - [Authentication System](./AUTHENTICATION.md)
 - [React Query](./REACT_QUERY.md)
+- [Zod Validation](./ZOD_VALIDATION.md)
