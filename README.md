@@ -4,5 +4,6 @@ This repository contains documentation and analysis for learning and reviewing t
 
 ## Documentation
 
+- [Project Structure](./PROJECT_STRUCTURE.md)
 - [Context Pattern](./CONTEXT_PATTERN.md)
 - [Authentication System](./AUTHENTICATION.md)
